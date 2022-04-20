@@ -16,7 +16,7 @@ sudo yum install python3 git
 Clone this repository
 
 
-git clone https://git@github.com:asadbinahmed/asad.git
+git clone https://github.com/asadbinahmed/asad.git
 
 
 Install pipenv
