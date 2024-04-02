@@ -1,0 +1,1 @@
+terraform state mv azurerm_service_plan.service_plan azurerm_service_plan.plan
